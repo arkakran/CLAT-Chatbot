@@ -1,10 +1,6 @@
 import streamlit as st
 import os
 from groq import Groq
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 # Set page configuration
 st.set_page_config(
@@ -16,7 +12,7 @@ st.set_page_config(
 # Initialize Groq client
 def initialize_groq_client():
     # First try to get API key from environment variables
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = "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"
     
     # If not found in environment, ask the user
     if not api_key:
