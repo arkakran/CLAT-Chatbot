@@ -25,7 +25,7 @@ The CLAT Exam Chatbot is designed to help aspiring law students access accurate,
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/clat-exam-chatbot.git
-cd clat-exam-chatbot
+(https://github.com/arkakran/CLAT-Chatbot.git)cd clat-exam-chatbot
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -80,6 +80,5 @@ For production deployment, it's recommended to:
 - Powered by [Groq](https://groq.com/) LLaMA 3 model
 - Built with [Streamlit](https://streamlit.io/)
 
-## Contact
-
-For questions or support, please open an issue on this repository or contact [your-email@example.com].
+## App Link
+- https://clat-chatbot-assignment.streamlit.app/
