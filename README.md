@@ -80,5 +80,3 @@ For production deployment, it's recommended to:
 - Powered by [Groq](https://groq.com/) LLaMA 3 model
 - Built with [Streamlit](https://streamlit.io/)
 
-## App Link
-- https://clat-chatbot-assignment.streamlit.app/
