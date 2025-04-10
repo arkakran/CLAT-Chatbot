@@ -166,7 +166,7 @@ def main():
         """)
         
         st.divider()
-        st.caption("Powered by Groq AI")
+        st.caption("By Aryan Kakran")
 
 if __name__ == "__main__":
     main()
