@@ -12,7 +12,7 @@ st.set_page_config(
 # Initialize Groq client
 def initialize_groq_client():
     # First try to get API key from environment variables
-    api_key = "gsk_UWF4NJekM7sUY6BnVbtKWGdyb3FYJpOu5CvUkJ84dH057xqdZxB"
+    api_key = "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"
     
     # If not found in environment, ask the user
     if not api_key:
